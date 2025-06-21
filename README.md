@@ -35,4 +35,9 @@ I'm **TBG101** — a developer who enjoys crafting software that’s clean, fast
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 🚀 Freelance Flutter/Full-Stack Dev  
+I build mobile apps, bots, and backend systems. **Available for hire!**  
+📩 **Email**: ziedhrz@gmail.com
+
+
 
