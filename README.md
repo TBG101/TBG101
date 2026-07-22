@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm **TBG101** — a developer who enjoys crafting software that’s clean, fast, and cross-platform. I like working close to the metal *and* building beautiful UIs. Whether it’s backend logic, native performance, or frontend finesse — I’m in.
+I'm **TBG101**, a Software Engineer who enjoys building reliable, well-designed software. I work across the stack, from backend systems and APIs to mobile and web applications, with a focus on writing clean, maintainable code. I enjoy solving practical problems, learning new technologies, and building products that people actually use.
 
 ---
 
@@ -39,9 +39,24 @@ I'm **TBG101** — a developer who enjoys crafting software that’s clean, fast
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🚀 Freelance Flutter/Full-Stack Dev  
-I build mobile apps, bots, and backend systems. **Available for hire!**  
-📩 **Email**: ziedhrz@gmail.com
+### ☁️ Infrastructure & DevOps
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge\&logo=redis\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase\&logoColor=ffcd34)
+![Tauri](https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=for-the-badge\&logo=tauri\&logoColor=white)
+
+## 📫 Get in Touch
+
+I'm open to freelance, contract, and full-time Software Engineering opportunities.
+📩 Email: ziedhrz@gmail.com
+
 
 
 
